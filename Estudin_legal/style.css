@@ -1,0 +1,7 @@
+:root{
+    --fundo: linear-gradient(#e66465, #9198e5) fixed;
+}
+
+body{
+    background: var(--fundo);
+}
