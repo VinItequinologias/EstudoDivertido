@@ -1,0 +1,23 @@
+:root{
+    --fundo: linear-gradient(#000000, #2a2a2b) fixed;
+}
+
+@font-face {
+    font-family:'Punk Typewriter';
+    src: url(Punk-Typewriter.otf) format('truetype');
+    }
+
+body{
+    background: var(--fundo);
+    font-family: 'Punk Typewriter';
+    font-size: 48px;
+}
+
+main{
+    color: #a50000;
+}
+
+footer{
+    background-color: #383838;
+    color: #ffffff;
+}
